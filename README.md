@@ -2,7 +2,7 @@
 Um site para apresentação pessoal e de projetos.
 
 ## Descrição
-Este projeto consiste em portfólio estático desenvolvido para apresentar projetos e o profissioanl. Com um design limpo e intuitivo, a página é voltada para promover uma mensagem clara ao usuário, mantendo a simplicidade e a eficiência.
+Este projeto consiste em portfólio estático desenvolvido para apresentar projetos e o profissional. Com um design limpo e intuitivo, a página é voltada para promover uma mensagem clara ao usuário, mantendo a simplicidade e a eficiência.
 
 ## Tecnologias Utilizadas
 - HTML5: Estrutura básica e semântica.
